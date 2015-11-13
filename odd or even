@@ -1,0 +1,13 @@
+
+# odd or even number
+
+num = 10
+if (num % 2) == 0:
+   print("Number is Even")
+else:
+   print("Number is Odd")
+
+#output
+#Number is Even
+
+# By Delpin Susai Raj
