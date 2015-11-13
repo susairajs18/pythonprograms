@@ -1,0 +1,14 @@
+
+#positive or negative or zero
+
+num = 10
+if num > 0:
+   print("Positive number")
+elif num == 0:
+   print("Zero")
+else:
+   print("Negative number")
+#output
+#positive number
+
+#by Delpin Susai Raj
