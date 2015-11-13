@@ -1,0 +1,13 @@
+#alphabetic or numeric
+
+s = 'Delpin'
+if s.isdigit():
+    print "Number"
+else:
+    print "Alphabet"
+
+#output
+#Alphabet
+
+
+#By Delpin Susai Raj
